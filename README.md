@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on my **undergraduate thesis** 
-      using **laravel**
+
 - 🌱 I’m currently learning **Laravel, Javascript**
 
 - 💬 Ask me about **HTML, CSS**
