@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **undergraduate thesis**
+- 🔭 I’m currently working on my **undergraduate thesis**
 
 - 🌱 I’m currently learning **Laravel, Javascript**
 
