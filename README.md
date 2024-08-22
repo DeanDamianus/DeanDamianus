@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dean</h1>
 <h3 align="center">I thrive on solving real-world problems through code. I have hands-on experience in a wide range of technologies, including Flutter for mobile development, Laravel for web applications, and front-end technologies like HTML, CSS, and JavaScript. Additionally, I enjoy exploring Python's versatility for various projects. Always eager to learn and innovate, I am committed to pushing the boundaries of technology and creating impactful digital experiences.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif")
-- 🔭 I’m currently working on my **undergraduate thesis**
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif")>
+
+
+
+- 🔭 I’m currently working on **undergraduate thesis**
 
 - 🌱 I’m currently learning **Laravel, Javascript**
 
