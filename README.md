@@ -4,11 +4,11 @@
 
 
 
-- 🔭 I’m currently working on my **undergraduate thesis** 
+- 🔭 I’m a **Fresh Graduate** 
 
-- 🌱 I’m currently learning **Laravel, Javascript**
+- 🌱 I’m currently learning **about AI**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, JavaScript and Laravel**
 
 - 📫 How to reach me **deandamianus56@gmail.com**
 
